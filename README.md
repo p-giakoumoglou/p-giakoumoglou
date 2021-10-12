@@ -24,6 +24,6 @@
 - Operating Systems: Windows 10 | Linux (Ubuntu) <br/>
 
 <div>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p.giakoumoglou&layout=compact" />
 <div/>
 
