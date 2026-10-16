@@ -15,7 +15,8 @@
 <br/>
 
 ## About me
-- Studying Electrical and Computer Engineering in AUTh
+- PhD candidate at the Centre for Artificial Intelligence, Department of Computer Science,
+UCL
 
 ## Skills
 - Programming Languages: Python | MATLAB | C/C++ | Java <br/>
